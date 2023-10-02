@@ -9,11 +9,11 @@ public class A {
 	// 생성자 선언
 	public A(boolean b) {}
 	
-	public A(int i) {
+	A(int i) {
 		
 	}
 	
-	public A(String s) {
+	private A(String s) {
 		
 	}
 }
